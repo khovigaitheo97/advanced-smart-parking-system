@@ -3,6 +3,7 @@
 A real-time embedded IoT parking system with computer vision, automated gate control, and nearest spot navigation.
 
 ## Demo
+
 <div align="center">
 
 <h2><strong>🎬 DEMO VIDEO</strong></h2>
@@ -10,32 +11,40 @@ A real-time embedded IoT parking system with computer vision, automated gate con
 <p><strong>Watch the full system demo by clicking the thumbnail below:</strong></p>
 
 <p>
-  <a href="https://www.youtube.com/watch?v=gsLNbzPRXuU" target="_blank">
-    <img src="media/demo-thumbnail.png" alt="Watch Demo Video" width="500">
+  <a href="https://www.youtube.com/watch?v=gsLNbzPRXuU">
+    <img src="media/demo-thumbnail.png" alt="Watch Demo Video" width="700">
+  </a>
+</p>
+
+<h3><strong>System Overview</strong></h3>
+<p>
+  <a href="media/system-overview.jpg">
+    <img src="media/system-overview.jpg" alt="System Overview" width="650">
+  </a>
+</p>
+
+<h3><strong>Web Interface</strong></h3>
+<p>
+  <a href="media/web-interface.jpg">
+    <img src="media/web-interface.jpg" alt="Web Interface" width="650">
+  </a>
+</p>
+
+<h3><strong>Parking Detection</strong></h3>
+<p>
+  <a href="media/parking-detection.jpg">
+    <img src="media/parking-detection.jpg" alt="Parking Detection" width="650">
+  </a>
+</p>
+
+<h3><strong>OLED Display and Plate Detection</strong></h3>
+<p>
+  <a href="media/oled-display.jpg">
+    <img src="media/oled-display.jpg" alt="OLED Display and Plate Detection" width="650">
   </a>
 </p>
 
 </div>
-
-### System Overview
-<a href="media/system-overview.jpg">
-  <img src="media/system-overview.jpg" alt="System Overview" width="400" height="500">
-</a>
-
-### Web Interface
-<a href="media/web-interface.jpg">
-  <img src="media/web-interface.jpg" alt="Web Interface" width="400" height="500">
-</a>
-
-### Parking Detection
-<a href="media/parking-detection.jpg">
-  <img src="media/parking-detection.jpg" alt="Parking Detection" width="400" height="500">
-</a>
-
-### OLED Display and Plate Detection
-<a href="media/oled-display.jpg">
-  <img src="media/oled-display.jpg" alt="OLED Display and Plate Detection" width="400" height="500">
-</a>
 
 ## Overview
 This project integrates ESP32, ESP32-CAM, Python, OpenCV, and OCR to detect parking occupancy, recognize license plates, control gate access, and provide parking status through an OLED display, web interface, and vehicle entry/exit logging system.
