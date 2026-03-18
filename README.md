@@ -3,40 +3,28 @@
 A real-time embedded IoT parking system with computer vision, automated gate control, and nearest spot navigation.
 
 ## Demo
-
-## Demo
-
 ### System Overview
 <a href="media/system-overview.jpg">
-  <img src="media/system-overview.jpg" alt="System Overview" width="500">
+  <img src="media/system-overview.jpg" alt="System Overview" width="400" height="500">
 </a>
-
 ### Web Interface
 <a href="media/web-interface.jpg">
-  <img src="media/web-interface.jpg" alt="Web Interface" width="500">
+  <img src="media/web-interface.jpg" alt="Web Interface" width="400" height="500">
 </a>
-
 ### Parking Detection
 <a href="media/parking-detection.jpg">
-  <img src="media/parking-detection.jpg" alt="Parking Detection" width="500">
+  <img src="media/parking-detection.jpg" alt="Parking Detection" width="400" height="500">
 </a>
-
 ### OLED Display and Plate Detection
 <a href="media/oled-display.jpg">
-  <img src="media/oled-display.jpg" alt="OLED Display and Plate Detection" width="500">
+  <img src="media/oled-display.jpg" alt="OLED Display and Plate Detection" width="400" height="500">
 </a>
 
 ### Demo Video
 Click the image below to watch the demo:
-
 <a href="PASTE_YOUR_VIDEO_LINK_HERE">
   <img src="media/images/demo-thumbnail.jpg" alt="Watch Demo Video" width="500">
 </a>
-
-### Demo Video
-Click the image below to watch the demo:
-
-[![Watch Demo Video](media/images/demo-thumbnail.jpg)](PASTE_YOUR_VIDEO_LINK_HERE)
 
 ## Overview
 This project integrates ESP32, ESP32-CAM, Python, OpenCV, and OCR to detect parking occupancy, recognize license plates, control gate access, and provide parking status through an OLED display, web interface, and vehicle entry/exit logging system.
