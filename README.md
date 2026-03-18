@@ -4,11 +4,17 @@ A real-time embedded IoT parking system with computer vision, automated gate con
 
 ## Demo
 <div align="center">
-  <h2><strong>🎬 DEMO VIDEO</strong></h2>
-  <p><strong>Watch the full system demo by clicking the thumbnail below:</strong></p>
-  <a href="https://www.youtube.com/watch?v=gsLNbzPRXuU">
-    <img src="https://img.youtube.com/vi/gsLNbzPRXuU/0.jpg" alt="Watch Demo Video" width="500">
+
+<h2><strong>🎬 DEMO VIDEO</strong></h2>
+
+<p><strong>Watch the full system demo by clicking the thumbnail below:</strong></p>
+
+<p>
+  <a href="https://drive.google.com/file/d/1-eRU6mLmjQy28Ug9ZJ_CmirusY7T2HBT/view?usp=drive_link">
+    <img src="media/images/demo-thumbnail.jpg" alt="Watch Demo Video" width="500">
   </a>
+</p>
+
 </div>
 
 ### System Overview
