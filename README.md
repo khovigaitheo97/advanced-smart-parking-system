@@ -7,14 +7,17 @@ A real-time embedded IoT parking system with computer vision, automated gate con
 <a href="media/system-overview.jpg">
   <img src="media/system-overview.jpg" alt="System Overview" width="400" height="500">
 </a>
+
 ### Web Interface
 <a href="media/web-interface.jpg">
   <img src="media/web-interface.jpg" alt="Web Interface" width="400" height="500">
 </a>
+
 ### Parking Detection
 <a href="media/parking-detection.jpg">
   <img src="media/parking-detection.jpg" alt="Parking Detection" width="400" height="500">
 </a>
+
 ### OLED Display and Plate Detection
 <a href="media/oled-display.jpg">
   <img src="media/oled-display.jpg" alt="OLED Display and Plate Detection" width="400" height="500">
