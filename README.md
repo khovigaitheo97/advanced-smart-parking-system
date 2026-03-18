@@ -2,6 +2,28 @@
 
 A real-time embedded IoT parking system with computer vision, automated gate control, and nearest spot navigation.
 
+## Demo
+
+### System Overview
+[![System Overview](media/images/system-overview.jpg)](media/images/system-overview.jpg)
+
+### Web Interface
+[![Web Interface](media/images/web-interface.jpg)](media/images/web-interface.jpg)
+
+### Parking Detection
+[![Parking Detection](media/images/parking-detection.jpg)](media/images/parking-detection.jpg)
+
+### License Plate Recognition
+[![License Plate Recognition](media/images/license-plate-recognition.jpg)](media/images/license-plate-recognition.jpg)
+
+### OLED Display
+[![OLED Display](media/images/oled-display.jpg)](media/images/oled-display.jpg)
+
+### Demo Video
+Click the image below to watch the demo:
+
+[![Watch Demo Video](media/images/demo-thumbnail.jpg)](PASTE_YOUR_VIDEO_LINK_HERE)
+
 ## Overview
 This project integrates ESP32, ESP32-CAM, Python, OpenCV, and OCR to detect parking occupancy, recognize license plates, control gate access, and provide parking status through an OLED display, web interface, and vehicle entry/exit logging system.
 
