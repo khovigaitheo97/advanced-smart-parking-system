@@ -11,7 +11,7 @@ A real-time embedded IoT parking system with computer vision, automated gate con
 
 <p>
   <a href="https://www.youtube.com/watch?v=gsLNbzPRXuU" >
-    <img src="media/images/demo-thumbnail.jpg" alt="Watch Demo Video" width="500">
+    
   </a>
 </p>
 
