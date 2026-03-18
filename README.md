@@ -4,17 +4,34 @@ A real-time embedded IoT parking system with computer vision, automated gate con
 
 ## Demo
 
+## Demo
+
 ### System Overview
-[![System Overview](media/system-overview.jpg)](media/system-overview.jpg)
+<a href="media/system-overview.jpg">
+  <img src="media/system-overview.jpg" alt="System Overview" width="500">
+</a>
 
 ### Web Interface
-[![Web Interface](media/web-interface.jpg)](media/web-interface.jpg)
+<a href="media/web-interface.jpg">
+  <img src="media/web-interface.jpg" alt="Web Interface" width="500">
+</a>
 
 ### Parking Detection
-[![Parking Detection](media/parking-detection.jpg)](media/parking-detection.jpg)
+<a href="media/parking-detection.jpg">
+  <img src="media/parking-detection.jpg" alt="Parking Detection" width="500">
+</a>
 
 ### OLED Display and Plate Detection
-[![OLED Display](media/oled-display.jpg)](media/oled-display.jpg)
+<a href="media/oled-display.jpg">
+  <img src="media/oled-display.jpg" alt="OLED Display and Plate Detection" width="500">
+</a>
+
+### Demo Video
+Click the image below to watch the demo:
+
+<a href="PASTE_YOUR_VIDEO_LINK_HERE">
+  <img src="media/images/demo-thumbnail.jpg" alt="Watch Demo Video" width="500">
+</a>
 
 ### Demo Video
 Click the image below to watch the demo:
