@@ -5,19 +5,16 @@ A real-time embedded IoT parking system with computer vision, automated gate con
 ## Demo
 
 ### System Overview
-[![System Overview](media/images/system-overview.jpg)](media/images/system-overview.jpg)
+[![System Overview](media/system-overview.jpg)](media/system-overview.jpg)
 
 ### Web Interface
-[![Web Interface](media/images/web-interface.jpg)](media/images/web-interface.jpg)
+[![Web Interface](media/web-interface.jpg)](media/web-interface.jpg)
 
 ### Parking Detection
-[![Parking Detection](media/images/parking-detection.jpg)](media/images/parking-detection.jpg)
+[![Parking Detection](media/parking-detection.jpg)](media/parking-detection.jpg)
 
-### License Plate Recognition
-[![License Plate Recognition](media/images/license-plate-recognition.jpg)](media/images/license-plate-recognition.jpg)
-
-### OLED Display
-[![OLED Display](media/images/oled-display.jpg)](media/images/oled-display.jpg)
+### OLED Display and Plate Detection
+[![OLED Display](media/oled-display.jpg)](media/oled-display.jpg)
 
 ### Demo Video
 Click the image below to watch the demo:
