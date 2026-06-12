@@ -62,6 +62,10 @@ A real-time embedded IoT parking system with computer vision, automated gate con
   <a href="media/open-gate-2.jpg">
     <img src="media/open-gate-2.jpg" alt="OLED Display and Plate Detection" width="650">
   </a>
+
+  <a href="media/log-entry-exit-time.jpg">
+    <img src="media/log-entry-exit-time.jpg" alt="OLED Display and Plate Detection" width="650">
+  </a>
 </p>
 
 </div>
