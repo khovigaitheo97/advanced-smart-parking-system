@@ -18,8 +18,11 @@ A real-time embedded IoT parking system with computer vision, automated gate con
 
 <h3><strong>System Overview</strong></h3>
 <p>
-  <a href="media/system-overview.jpg">
-    <img src="media/system-overview.jpg" alt="System Overview" width="650">
+  <a href="media/system-overview-1.jpg">
+    <img src="media/system-overview-1.jpg" alt="System Overview" width="650">
+  </a>
+  <a href="media/system-overview-2.jpg">
+    <img src="media/system-overview-2.jpg" alt="System Overview" width="650">
   </a>
 </p>
 
@@ -35,12 +38,29 @@ A real-time embedded IoT parking system with computer vision, automated gate con
   <a href="media/parking-detection.jpg">
     <img src="media/parking-detection.jpg" alt="Parking Detection" width="650">
   </a>
+  
+  <a href="media/full-parking.jpg">
+    <img src="media/full-parking.jpg" alt="Parking Detection" width="650">
+  </a>
+
+   <a href="media/Free-parking.jpg">
+    <img src="media/Free-parking.jpg" alt="Parking Detection" width="650">
+  </a>
+  
 </p>
 
 <h3><strong>OLED Display and Plate Detection</strong></h3>
 <p>
   <a href="media/oled-display.jpg">
     <img src="media/oled-display.jpg" alt="OLED Display and Plate Detection" width="650">
+  </a>
+
+  <a href="media/open-gate-1.jpg">
+    <img src="media/open-gate-1.jpg" alt="OLED Display and Plate Detection" width="650">
+  </a>
+
+  <a href="media/open-gate-2.jpg">
+    <img src="media/open-gate-2.jpg" alt="OLED Display and Plate Detection" width="650">
   </a>
 </p>
 
